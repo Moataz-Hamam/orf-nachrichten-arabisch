@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nachrichten auf Arabisch</title>
+</head>
+<body>
+    <h1>Nachrichten auf Arabisch</h1>
+    <div id="nachrichten-bereich"></div>
+<script>
+  fetch("nachrichten.json")
+    .then(antwort => antwort.json())
+    .then(daten => {
+        const bereich = document.getElementById("nachrichten-bereich");
+        
+        for (const nachricht of daten) {
+            bereich.innerHTML += "<h2>" + nachricht.titel_original + "</h2>";
+            bereich.innerHTML += "<p dir='rtl'>" + nachricht.titel_arabisch + "</p>";
+            bereich.innerHTML += "<hr>";
+        }
+    });
+</script>
+</body>
+</html>

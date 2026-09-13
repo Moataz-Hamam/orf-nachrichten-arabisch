@@ -1,0 +1,4 @@
+venv/
+server.log
+server-error.log
+update_nachrichten.sh
