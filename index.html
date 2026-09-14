@@ -17,6 +17,27 @@
             color: #2c3e50;
         }
 
+        #filter-bereich {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .filter-button {
+            background-color: white;
+            border: 2px solid #ddd;
+            border-radius: 20px;
+            padding: 8px 16px;
+            margin: 4px;
+            cursor: pointer;
+            font-size: 0.9em;
+        }
+
+        .filter-button.aktiv {
+            background-color: #2c3e50;
+            color: white;
+            border-color: #2c3e50;
+        }
+
         .nachrichten-karte {
             background-color: white;
             border-radius: 12px;
@@ -40,22 +61,64 @@
 </head>
 <body>
     <h1>Nachrichten auf Arabisch</h1>
+    <div id="filter-bereich"></div>
     <div id="nachrichten-bereich"></div>
 
     <script>
-    fetch("nachrichten.json")
-    .then(antwort => antwort.json())
-    .then(daten => {
-        const bereich = document.getElementById("nachrichten-bereich");
+    let alleNachrichten = [];
 
-        for (const nachricht of daten) {
+    fetch("nachrichten.json")
+        .then(antwort => antwort.json())
+        .then(daten => {
+            alleNachrichten = daten;
+            zeigeFilterButtons();
+            zeigeNachrichten("Alle");
+        });
+
+    function zeigeFilterButtons() {
+        const filterBereich = document.getElementById("filter-bereich");
+
+        const kategorien = ["Alle"];
+        for (const nachricht of alleNachrichten) {
+            if (!kategorien.includes(nachricht.kategorie)) {
+                kategorien.push(nachricht.kategorie);
+            }
+        }
+
+        for (const kategorie of kategorien) {
+            const button = document.createElement("button");
+            button.textContent = kategorie;
+            button.className = "filter-button";
+            if (kategorie === "Alle") {
+                button.className += " aktiv";
+            }
+            button.onclick = function() {
+                zeigeNachrichten(kategorie);
+                const alleButtons = document.querySelectorAll(".filter-button");
+                for (const b of alleButtons) {
+                    b.className = "filter-button";
+                }
+                button.className = "filter-button aktiv";
+            };
+            filterBereich.appendChild(button);
+        }
+    }
+
+    function zeigeNachrichten(gewaehlteKategorie) {
+        const bereich = document.getElementById("nachrichten-bereich");
+        bereich.innerHTML = "";
+
+        for (const nachricht of alleNachrichten) {
+            if (gewaehlteKategorie !== "Alle" && nachricht.kategorie !== gewaehlteKategorie) {
+                continue;
+            }
             const karte = "<div class='nachrichten-karte'>" +
                 "<h2>" + nachricht.titel_original + "</h2>" +
                 "<p dir='rtl'>" + nachricht.titel_arabisch + "</p>" +
                 "</div>";
             bereich.innerHTML += karte;
         }
-    });
+    }
     </script>
 </body>
 </html>

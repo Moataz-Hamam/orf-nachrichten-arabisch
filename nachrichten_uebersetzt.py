@@ -22,13 +22,15 @@ ergebnisse = []
 
 for eintrag in feed.entries[:5]:
     titel_original = eintrag.title
+    kategorie = eintrag.tags[0].term
     titel_arabisch = uebersetze(titel_original)
     
     nachricht = {
-        "titel_original": titel_original,
-        "titel_arabisch": titel_arabisch,
-        "link": eintrag.link
-    }
+    "titel_original": titel_original,
+    "titel_arabisch": titel_arabisch,
+    "link": eintrag.link,
+    "kategorie": kategorie
+}
     ergebnisse.append(nachricht)
     print("Fertig:", titel_original)
 

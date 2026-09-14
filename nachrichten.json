@@ -1,27 +1,32 @@
 [
   {
+    "titel_original": "Lagarde und Van der Bellen wollen Kapitalmarktunion für KI",
+    "titel_arabisch": "لاغارد وفان دير بيلين يدعوان إلى إنشاء اتحاد لأسواق رأس المال لدعم الذكاء الاصطناعي",
+    "link": "https://orf.at/stories/3442169/",
+    "kategorie": "Ausland"
+  },
+  {
+    "titel_original": "Trump: Kiew und Moskau wollen keine Energieanlagen mehr angreifen",
+    "titel_arabisch": "ترامب: كييف وموسكو توافقان على وقف الهجمات على منشآت الطاقة",
+    "link": "https://orf.at/stories/3442168/",
+    "kategorie": "Ausland"
+  },
+  {
+    "titel_original": "Britpopband Oasis kündigt nächste Konzerttournee an",
+    "titel_arabisch": "فرقة أوآسيس للبريتبوب تُعلن عن جولة حفلات جديدة",
+    "link": "https://orf.at/stories/3442167/",
+    "kategorie": "Kultur"
+  },
+  {
+    "titel_original": "Stocker bekräftigt bei Besuch in Bayern harte Linie bei Migration",
+    "titel_arabisch": "ستوكر يؤكد موقفه المتشدد في ملف الهجرة خلال زيارته لبافاريا",
+    "link": "https://orf.at/stories/3442164/",
+    "kategorie": "Ausland"
+  },
+  {
     "titel_original": "Tiefe Kluft bei Klimaschutzdebatte",
     "titel_arabisch": "هوّة عميقة في النقاش حول حماية المناخ",
-    "link": "https://orf.at/stories/3442134/"
-  },
-  {
-    "titel_original": "Doppelspitze leitet künftig Münchner Sicherheitskonferenz",
-    "titel_arabisch": "قيادة مزدوجة ستتولى إدارة مؤتمر ميونخ للأمن في المستقبل",
-    "link": "https://orf.at/stories/3442159/"
-  },
-  {
-    "titel_original": "Britische Landesteile fordern mehr Selbstbestimmungsrechte",
-    "titel_arabisch": "الأقاليم البريطانية تطالب بمزيد من حقوق الحكم الذاتي",
-    "link": "https://orf.at/stories/3442150/"
-  },
-  {
-    "titel_original": "Ätna: Flughafen Catania wegen Aschewolke gesperrt",
-    "titel_arabisch": "إتنا: إغلاق مطار كاتانيا بسبب سحابة الرماد البركاني",
-    "link": "https://orf.at/stories/3442147/"
-  },
-  {
-    "titel_original": "Großproteste in Syrien wegen hoher Treibstoffpreise",
-    "titel_arabisch": "احتجاجات واسعة في سوريا بسبب ارتفاع أسعار الوقود",
-    "link": "https://orf.at/stories/3442143/"
+    "link": "https://orf.at/stories/3442134/",
+    "kategorie": "Inland"
   }
 ]
