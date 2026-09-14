@@ -44,17 +44,18 @@
 
     <script>
     fetch("nachrichten.json")
-        .then(antwort => antwort.json())
-        .then(daten => {
-            const bereich = document.getElementById("nachrichten-bereich");
+    .then(antwort => antwort.json())
+    .then(daten => {
+        const bereich = document.getElementById("nachrichten-bereich");
 
-            for (const nachricht of daten) {
-                bereich.innerHTML += "<div class='nachrichten-karte'>";
-                bereich.innerHTML += "<h2>" + nachricht.titel_original + "</h2>";
-                bereich.innerHTML += "<p dir='rtl'>" + nachricht.titel_arabisch + "</p>";
-                bereich.innerHTML += "</div>";
-            }
-        });
+        for (const nachricht of daten) {
+            const karte = "<div class='nachrichten-karte'>" +
+                "<h2>" + nachricht.titel_original + "</h2>" +
+                "<p dir='rtl'>" + nachricht.titel_arabisch + "</p>" +
+                "</div>";
+            bereich.innerHTML += karte;
+        }
+    });
     </script>
 </body>
 </html>
