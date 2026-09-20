@@ -1,7 +1,19 @@
 [
   {
+    "titel_original": "AfD und Linke siegen, CDU stürzt ab",
+    "titel_arabisch": "أفدي واليسار ينتصران، والحزب الديمقراطي المسيحي يتهاوى",
+    "link": "https://orf.at/stories/3442752/",
+    "kategorie": "Ausland"
+  },
+  {
+    "titel_original": "Iranische Wirtschaft seit Kriegsbeginn deutlich geschrumpft",
+    "titel_arabisch": "الاقتصاد الإيراني يتراجع بشكل ملحوظ منذ اندلاع الحرب",
+    "link": "https://orf.at/stories/3442761/",
+    "kategorie": "Ausland"
+  },
+  {
     "titel_original": "Doppeljackpot bei Lotto „6 aus 45“",
-    "titel_arabisch": "جائزة مضاعفة في سحب اليانصيب \"6 من 45\"",
+    "titel_arabisch": "جائزة مضاعفة في لعبة اليانصيب \"6 من 45\"",
     "link": "https://orf.at/stories/3442758/",
     "kategorie": "cLotto"
   },
@@ -13,20 +25,8 @@
   },
   {
     "titel_original": "Frankreich und Kanada bauen Zusammenarbeit aus",
-    "titel_arabisch": "فرنسا وكندا تعززان تعاونهما",
+    "titel_arabisch": "فرنسا وكندا تعززان تعاونهما المشترك",
     "link": "https://orf.at/stories/3442751/",
-    "kategorie": "Ausland"
-  },
-  {
-    "titel_original": "Putins Partei gewinnt Parlamentswahl in Russland",
-    "titel_arabisch": "حزب بوتين يفوز بالانتخابات البرلمانية في روسيا",
-    "link": "https://orf.at/stories/3442749/",
-    "kategorie": "Ausland"
-  },
-  {
-    "titel_original": "Bewaffnete Gruppen in Äthiopien bilden Allianz zum Umsturz",
-    "titel_arabisch": "جماعات مسلحة في إثيوبيا تتحالف للإطاحة بالحكومة",
-    "link": "https://orf.at/stories/3442746/",
     "kategorie": "Ausland"
   }
 ]
