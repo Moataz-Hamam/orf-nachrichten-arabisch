@@ -1,32 +1,32 @@
 [
   {
-    "titel_original": "Hohe Geldstrafen: Singapur verbietet Musik in „Öffis“",
-    "titel_arabisch": "غرامات باهظة: سنغافورة تحظر الموسيقى في وسائل النقل العام",
-    "link": "https://orf.at/stories/3443004/",
+    "titel_original": "Van der Bellen sichert Kiew weitere Unterstützung zu",
+    "titel_arabisch": "فان دير بيلين يؤكد استمرار دعم النمسا لكييف",
+    "link": "https://orf.at/stories/3443046/",
+    "kategorie": "Ausland"
+  },
+  {
+    "titel_original": "Iranischer Präsident beklagt bei UNO „Politik der Gewalt“",
+    "titel_arabisch": "الرئيس الإيراني يندّد أمام الأمم المتحدة بـ\"سياسة العنف\"",
+    "link": "https://orf.at/stories/3443045/",
+    "kategorie": "Ausland"
+  },
+  {
+    "titel_original": "Medien: 15 Jahre Haft für Ex-Hollywood-Produzenten Weinstein",
+    "titel_arabisch": "وسائل الإعلام: 15 عاماً من السجن بحق المنتج الهوليوودي السابق وينستين",
+    "link": "https://orf.at/stories/3443044/",
     "kategorie": "Chronik"
   },
   {
-    "titel_original": "München: Diebstahl am Tag des offenen Denkmals",
-    "titel_arabisch": "ميونخ: سرقة في يوم التراث المفتوح",
-    "link": "https://orf.at/stories/3443007/",
-    "kategorie": "Kultur"
-  },
-  {
-    "titel_original": "IStGH spricht Ex-Rebellenchef aus ZAR schuldig",
-    "titel_arabisch": "المحكمة الجنائية الدولية تدين زعيماً سابقاً لمتمردين في جمهورية أفريقيا الوسطى",
-    "link": "https://orf.at/stories/3443006/",
+    "titel_original": "Trumps „Friedensrat“ stellt Wiederaufbauplan für Gaza vor",
+    "titel_arabisch": "مجلس \"السلام\" التابع لترامب يكشف عن خطة لإعادة إعمار غزة",
+    "link": "https://orf.at/stories/3443043/",
     "kategorie": "Ausland"
   },
   {
-    "titel_original": "EZB: Neue Euro-Banknoten ab Anfang der 2030er",
-    "titel_arabisch": "البنك المركزي الأوروبي: أوراق نقدية جديدة لليورو مطلع ثلاثينيات القرن الحادي والعشرين",
-    "link": "https://orf.at/stories/3443003/",
-    "kategorie": "Ausland"
-  },
-  {
-    "titel_original": "Israel reagiert auf lautstarke Kritik empört",
-    "titel_arabisch": "إسرائيل تُبدي استياءها إزاء الانتقادات الصاخبة",
-    "link": "https://orf.at/stories/3442984/",
-    "kategorie": "Ausland"
+    "titel_original": "Nationalrat: KI-Einsatz in Verwaltung vereinfacht",
+    "titel_arabisch": "المجلس الوطني: تبسيط استخدام الذكاء الاصطناعي في الإدارة",
+    "link": "https://orf.at/stories/3443042/",
+    "kategorie": "Inland"
   }
 ]
