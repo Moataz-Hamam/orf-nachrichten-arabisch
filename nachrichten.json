@@ -1,32 +1,32 @@
 [
   {
-    "titel_original": "Tote und Verletzte bei Angriffen in Ukraine und Russland",
-    "titel_arabisch": "قتلى وجرحى في هجمات على أوكرانيا وروسيا",
-    "link": "https://orf.at/stories/3443321/",
+    "titel_original": "Hunderttausende bei Papst-Messe in Paris",
+    "titel_arabisch": "مئات الآلاف يحضرون قداس البابا في باريس",
+    "link": "https://orf.at/stories/3443333/",
+    "kategorie": "Religion"
+  },
+  {
+    "titel_original": "Bericht: Warnungen vor 7. Oktober auch aus Ägypten",
+    "titel_arabisch": "تقرير: تحذيرات من السابع من أكتوبر جاءت أيضاً من مصر",
+    "link": "https://orf.at/stories/3443345/",
     "kategorie": "Ausland"
   },
   {
-    "titel_original": "Babler will SPÖ-Chef bleiben",
-    "titel_arabisch": "بابلر يريد البقاء رئيساً للحزب الاشتراكي الديمقراطي النمساوي",
-    "link": "https://orf.at/stories/3443317/",
-    "kategorie": "Inland"
-  },
-  {
-    "titel_original": "Waldbrände auf Borneo bedrohen Orang-Utans",
-    "titel_arabisch": "حرائق الغابات في بورنيو تهدد إنسان الغاب",
-    "link": "https://orf.at/stories/3443319/",
-    "kategorie": "Umwelt"
-  },
-  {
-    "titel_original": "Saudi-Arabien: Neuer Huthi-Luftangriff auf Riad",
-    "titel_arabisch": "السعودية: هجوم جوي حوثي جديد على الرياض",
-    "link": "https://orf.at/stories/3443318/",
+    "titel_original": "Trump: Habe iranisches Hormus-Angebot abgelehnt",
+    "titel_arabisch": "ترامب: رفضت العرض الإيراني بشأن هرمز",
+    "link": "https://orf.at/stories/3443344/",
     "kategorie": "Ausland"
   },
   {
-    "titel_original": "OpenAI meldet weitere KI-Vorfälle",
-    "titel_arabisch": "أوبن إيه آي تُبلّغ عن مزيد من حوادث الذكاء الاصطناعي",
-    "link": "https://orf.at/stories/3443307/",
-    "kategorie": "IT"
+    "titel_original": "Wadephul traf Lawrow in New York",
+    "titel_arabisch": "وادفول يلتقي لافروف في نيويورك",
+    "link": "https://orf.at/stories/3443342/",
+    "kategorie": "Ausland"
+  },
+  {
+    "titel_original": "Papst feiert in Paris Messe mit 700.000 Menschen",
+    "titel_arabisch": "البابا يُقيم قداساً في باريس بحضور 700 ألف شخص",
+    "link": "https://orf.at/stories/3443338/",
+    "kategorie": "Religion"
   }
 ]
