@@ -1,13 +1,19 @@
 [
   {
+    "titel_original": "Oman bietet Vermittlung im Nahost-Krieg an",
+    "titel_arabisch": "عُمان تعرض الوساطة في حرب الشرق الأوسط",
+    "link": "https://orf.at/stories/3443366/",
+    "kategorie": "Ausland"
+  },
+  {
     "titel_original": "USA lockern Spritsparvorgaben für Autos deutlich",
-    "titel_arabisch": "الولايات المتحدة تُخفّف بشكل ملحوظ معايير كفاءة استهلاك الوقود للسيارات",
+    "titel_arabisch": "الولايات المتحدة تُخفف بشكل ملحوظ معايير استهلاك الوقود للسيارات",
     "link": "https://orf.at/stories/3443365/",
     "kategorie": "Wirtschaft"
   },
   {
     "titel_original": "„Umweltfreundlich“ muss nun belegt werden",
-    "titel_arabisch": "\"صديق للبيئة\" بات مصطلحاً يستوجب الإثبات",
+    "titel_arabisch": "\"صديق للبيئة\" بات يستلزم إثباتاً وتوثيقاً",
     "link": "https://orf.at/stories/3443211/",
     "kategorie": "Wirtschaft"
   },
@@ -22,11 +28,5 @@
     "titel_arabisch": "عاصفة خريفية عنيفة تضرب شمال شرق الولايات المتحدة",
     "link": "https://orf.at/stories/3443361/",
     "kategorie": "Chronik"
-  },
-  {
-    "titel_original": "Über 700 Mio. Euro für weltweite Krisenhilfe",
-    "titel_arabisch": "أكثر من 700 مليون يورو للمساعدات الإنسانية في مناطق الأزمات حول العالم",
-    "link": "https://orf.at/stories/3443360/",
-    "kategorie": "Ausland"
   }
 ]
