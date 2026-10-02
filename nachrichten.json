@@ -1,5 +1,23 @@
 [
   {
+    "titel_original": "Viel Anerkennung für Helfer",
+    "titel_arabisch": "كثير من التقدير للمتطوعين",
+    "link": "https://orf.at/stories/3443850/",
+    "kategorie": "Ausland"
+  },
+  {
+    "titel_original": "Nike legt neues Sparprogramm auf",
+    "titel_arabisch": "نايك تطلق برنامجاً جديداً لخفض التكاليف",
+    "link": "https://orf.at/stories/3443853/",
+    "kategorie": "Wirtschaft"
+  },
+  {
+    "titel_original": "Brasilien: Ruf nach Ermittlungen zu möglicher US-Einmischung",
+    "titel_arabisch": "البرازيل: مطالبات بفتح تحقيق في تدخل أمريكي محتمل",
+    "link": "https://orf.at/stories/3443851/",
+    "kategorie": "Ausland"
+  },
+  {
     "titel_original": "Gewalteskalation bei Schülerprotesten",
     "titel_arabisch": "تصاعد العنف خلال احتجاجات الطلاب",
     "link": "https://orf.at/stories/3443818/",
@@ -10,23 +28,5 @@
     "titel_arabisch": "الحكومة التشيكية تنجو من تصويت سحب الثقة",
     "link": "https://orf.at/stories/3443845/",
     "kategorie": "Ausland"
-  },
-  {
-    "titel_original": "Kiew: Erster Einsatz von eigener ballistischer Rakete",
-    "titel_arabisch": "كييف: أول استخدام لصاروخ باليستي محلي الصنع",
-    "link": "https://orf.at/stories/3443844/",
-    "kategorie": "Ausland"
-  },
-  {
-    "titel_original": "Vorfall bei Militärbasis: Festnahme in London",
-    "titel_arabisch": "حادثة قرب قاعدة عسكرية: اعتقال في لندن",
-    "link": "https://orf.at/stories/3443840/",
-    "kategorie": "Ausland"
-  },
-  {
-    "titel_original": "Handelsexpertin Cordula Cerha live zu Gast",
-    "titel_arabisch": "خبيرة التجارة كورديولا تسيرها ضيفة مباشرة في الاستوديو",
-    "link": "https://orf.at/stories/3443839/",
-    "kategorie": "Inland"
   }
 ]
